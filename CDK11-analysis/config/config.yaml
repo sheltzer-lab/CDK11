@@ -1,0 +1,40 @@
+# CDK11 Project Configuration
+
+# CRISPR Analysis Configuration
+crispr_analysis:
+  files:
+    copy_number: "../../data/raw/crispr/1p36_CN.csv"
+    crispr_scores: "../../data/raw/crispr/CDK11B_CRISPR_Project_Score_CERES.csv"
+  analysis:
+    deep_deletion_percentile: 0.1
+    shallow_deletion_percentile: 0.4
+
+# Drug Sensitivity Analysis Configuration
+drug_sensitivity:
+  files:
+    expression: "../../data/raw/drug_sensitivity/1p36_Expression.csv"
+    drug_data: "../../data/raw/drug_sensitivity/MTS023_JASON_SHELTZER_LFC_MATRIX_OTS964.csv"
+  analysis:
+    low_expression_percentile: 0.1
+    medium_expression_percentile: 0.4
+    drug_column: "OTS964_0.1235 uM"
+
+# Gene Expression vs CRISPR Analysis Configuration
+expression_crispr:
+  files:
+    expression: "../../data/raw/expression_crispr/1p36_Expression.csv"
+    crispr_scores: "../../data/raw/expression_crispr/CDK11B_CRISPR_Project_Score_CERES.csv"
+  analysis:
+    low_expression_percentile: 0.1
+    medium_expression_percentile: 0.65
+    crispr_column: "CRISPR (Project Score, CERES)"
+
+# RNAi Analysis Configuration
+rnai_analysis:
+  files:
+    copy_number: "../../data/raw/rnai/1p36_CN.csv"
+    rnai_scores: "../../data/raw/rnai/CDK11B_RNAi_Achilles_DEMETER2.csv"
+  analysis:
+    deep_deletion_percentile: 0.1
+    shallow_deletion_percentile: 0.4
+    rnai_column: "RNAi (Achilles, DEMETER2)"

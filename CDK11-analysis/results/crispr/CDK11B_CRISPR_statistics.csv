@@ -1,0 +1,4 @@
+comparison,p_value,statistic
+Copy Neutral vs Shallow Deletion,1.8215850621821428e-10,6.67367336973175
+Shallow vs Deep Deletion,0.024937675144161942,2.3107953628497078
+Copy Neutral vs Deep Deletion,1.582347985339588e-07,6.221236718987509
