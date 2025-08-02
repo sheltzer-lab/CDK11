@@ -1,0 +1,23 @@
+psisigma:
+  job:
+    name: "PSI-Sigma"
+    ntasks: 8
+    mem: "48G"
+    time: "5:00:00"
+    partition: "day"
+    mail_user: "<enter-email>"
+    mail_type: "ALL"
+
+  environment:
+    module: "miniconda"
+    conda_env: "PSIsigma"
+    singularity_image: "docker://woodydon/psi_sigma_pipeline:3.9"
+
+  script:
+    perl_path: "/usr/local/bin/PSI-Sigma-2.1/dummyai.pl"
+    gtf: "../../data/genome.gtf"
+    nread: 10
+    name: "0nm1hr"
+    type: 1
+    threads: 8
+    fmode: 3

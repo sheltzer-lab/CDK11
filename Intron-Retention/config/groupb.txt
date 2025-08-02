@@ -1,0 +1,2 @@
+<PATH TO R1.bam>
+<PATH TO R2.bam>
