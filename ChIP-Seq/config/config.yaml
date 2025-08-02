@@ -1,0 +1,43 @@
+deeptools:
+  files:
+    bigwigs:
+      - "../data/GSE118051_Ca_Pol2_36h_ChIP_merged.sort_BIN1_duplicates.bigWig"
+      - "../data/GSE118051_si298_Pol2_36h_ChIP_merged.sort_BIN1_duplicates.bigWig"
+      - "../data/GSE118051_Ca_Ser2_36h_ChIP_merged.sort_BIN1_duplicates.bigWig"
+      - "../data/GSE118051_si298_Ser2_36h_ChIP_merged.sort_BIN1_duplicates.bigWig"
+    summary_bw: "../data/GSE118051_ChIP-seq_P-Ser2_RNAPII_RPGC_log2_FC_bin10.bigwig"
+    gene_regions_bed: "../data/biomart_genes.bed"
+    chip_peaks_bed: "../data/pSer2_chip_peaks.bed"
+
+  labels:
+    samples:
+      - "RNAPII_CTRL"
+      - "RNAPII_CDK11_KD"
+      - "PSER2_CTRL"
+      - "PSER2_CDK11_KD"
+
+  output:
+    matrix: "../data/all_genes.gz"
+    heatmap_svg: "../data/all_genes.svg"
+    heatmap_bed: "../data/all_genes.bed"
+    profile_svg: "../data/all_genes_combined_profile.svg"
+    summary_tab: "../data/pSer2_chip_per_peak_log2FC.tab"
+    summary_npz: "../data/pSer2_chip_per_peak_log2FC.npz"
+
+  parameters:
+    region_body_length: 1000
+    upstream: 2000
+    downstream: 2000
+    bin_size: 50
+    heatmap_width: 10
+    heatmap_height: 10
+    profile_width: 12
+    profile_height: 15
+    color_map: "Reds"
+    profile_title: "Profile"
+    profile_colors:
+      - "blue"
+      - "green"
+      - "red"
+      - "orange"
+    legend_location: "upper-right"
