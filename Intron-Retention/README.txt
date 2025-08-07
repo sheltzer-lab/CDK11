@@ -1,1 +1,1 @@
-The default output for psi-sigma wil be the folder the code is run from.
+The default output for PSI-Sigma will be the folder the code is executed from.
