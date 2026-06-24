@@ -1,0 +1,316 @@
+depmap_id,CN_category,Depmap ID,"CRISPR (Project Score, CERES)",Cell Line Name,Primary Disease,Lineage,Lineage Subtype,Expression Public 24Q2,Mutations_Prioritized
+ACH-002210,Copy Neutral / Gain,ACH-002210,-1.049486784881536,ARH77,Non-Cancerous,Myeloid,Non-Cancerous,,Other
+ACH-002212,Copy Neutral / Gain,ACH-002212,-1.1552764759227154,BB30HNC,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-001016,Copy Neutral / Gain,ACH-001016,-0.928665379527568,BECKER,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.142004915984876,Other
+ACH-001331,Copy Neutral / Gain,ACH-001331,-1.2310817187355734,BICR10,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-001039,Shallow Deletion,ACH-001039,-1.2038513544545313,COLO205,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,,Other
+ACH-000864,Shallow Deletion,ACH-000864,-1.1965022949860509,COLO684,Endometrial Carcinoma,Uterus,Endometrial Carcinoma,5.378164779871632,Other
+ACH-001820,Shallow Deletion,ACH-001820,-1.460269068358926,COLO824,"Breast Neoplasm, NOS",Breast,"Breast Neoplasm, NOS",4.163498732282879,Other
+ACH-002228,Copy Neutral / Gain,ACH-002228,-1.372557361279575,D423MG,Diffuse Glioma,CNS/Brain,Diffuse Glioma,,Other
+ACH-002229,Shallow Deletion,ACH-002229,-1.2637028923829716,D502MG,Diffuse Glioma,CNS/Brain,Diffuse Glioma,,Other
+ACH-002230,Copy Neutral / Gain,ACH-002230,-1.009090184592895,D542MG,Diffuse Glioma,CNS/Brain,Diffuse Glioma,,Other
+ACH-002233,Copy Neutral / Gain,ACH-002233,-1.2896468436125077,DIFI,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,,Other
+ACH-002234,Shallow Deletion,ACH-002234,-1.4171842352482888,DOK,"Head and Neck Carcinoma, Other",Head and Neck,"Head and Neck Carcinoma, Other",,Other
+ACH-001063,Deep Deletion,ACH-001063,-1.3630651627357953,DOV13,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,,Other
+ACH-000585,Shallow Deletion,ACH-000585,-1.6227800203822833,EPLC272H,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.598722499676621,Other
+ACH-002105,Shallow Deletion,ACH-002105,-1.2013050791439568,ES4,Ewing Sarcoma,Bone,Ewing Sarcoma,,Other
+ACH-002106,Copy Neutral / Gain,ACH-002106,-1.377747519449204,ES5,Ewing Sarcoma,Bone,Ewing Sarcoma,,Other
+ACH-002109,Copy Neutral / Gain,ACH-002109,-0.9573807432956348,ES8,Ewing Sarcoma,Bone,Ewing Sarcoma,,Other
+ACH-001496,Copy Neutral / Gain,ACH-001496,-1.121250664684322,ESO26,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,4.851499202461257,Other
+ACH-001497,Copy Neutral / Gain,ACH-001497,-1.1483901292309282,ESO51,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,4.062639828286463,Other
+ACH-001065,Copy Neutral / Gain,ACH-001065,-1.2651434560375092,EVSAT,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,,Other
+ACH-002110,Copy Neutral / Gain,ACH-002110,-1.1169842843266566,EW1,Ewing Sarcoma,Bone,Ewing Sarcoma,,Other
+ACH-002114,Copy Neutral / Gain,ACH-002114,-1.1523275878695234,EW16,Ewing Sarcoma,Bone,Ewing Sarcoma,,Other
+ACH-002116,Copy Neutral / Gain,ACH-002116,-1.2096397811538149,EW22,Ewing Sarcoma,Bone,Ewing Sarcoma,,Other
+ACH-002119,Shallow Deletion,ACH-002119,-1.3141286561814194,EW7,Ewing Sarcoma,Bone,Ewing Sarcoma,,Other
+ACH-002239,Copy Neutral / Gain,ACH-002239,-1.081567996130128,H3118,Salivary Carcinoma,Head and Neck,Salivary Carcinoma,,Other
+ACH-001081,Copy Neutral / Gain,ACH-001081,-1.1945313479909327,HCC2998,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,,Other
+ACH-000668,Copy Neutral / Gain,ACH-000668,-0.7317206005509986,HCC70,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.679480099505446,Other
+ACH-002243,Copy Neutral / Gain,ACH-002243,-0.934527094096109,HCE4,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,,Other
+ACH-002140,Copy Neutral / Gain,ACH-002140,-0.9869772214264936,HEY,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,,Other
+ACH-000861,Copy Neutral / Gain,ACH-000861,-1.025829136666111,HOP62,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.316507819103109,Other
+ACH-000148,Copy Neutral / Gain,ACH-000148,-0.9542272880141988,HS578T,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.311067102255596,Other
+ACH-002141,Copy Neutral / Gain,ACH-002141,-1.212960649332248,HSC39,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,,Other
+ACH-000546,Deep Deletion,ACH-000546,-1.5517800132768582,HSC4,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.196134880765161,Other
+ACH-000966,Copy Neutral / Gain,ACH-000966,-1.476653404320568,IGROV1,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.130107178658833,Other
+ACH-002247,Copy Neutral / Gain,ACH-002247,-1.1417801773951943,IM9,Non-Cancerous,Myeloid,Non-Cancerous,,Other
+ACH-002143,Copy Neutral / Gain,ACH-002143,-0.7494042974530214,ISTMEL1,Melanoma,Skin,Melanoma,,Other
+ACH-002249,Shallow Deletion,ACH-002249,-1.1715744038757732,JHU011,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-002250,Shallow Deletion,ACH-002250,-1.2132377143537314,JHU022,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-002251,Shallow Deletion,ACH-002251,-1.136480200536369,JHU029,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-002257,Copy Neutral / Gain,ACH-002257,-0.9065257314086004,KINGS1,Diffuse Glioma,CNS/Brain,Diffuse Glioma,,Other
+ACH-000969,Copy Neutral / Gain,ACH-000969,-1.033213961784184,KM12,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.919816770052789,Other
+ACH-001107,Copy Neutral / Gain,ACH-001107,-1.0539516140804677,KP1N,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,,Other
+ACH-002261,Shallow Deletion,ACH-002261,-1.478066778808147,KPNYS,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,,Other
+ACH-001544,Copy Neutral / Gain,ACH-001544,-1.0823338633087738,KYAE1,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,,Other
+ACH-002263,Deep Deletion,ACH-002263,-1.362470510403389,KYSE220,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,,Other
+ACH-002150,Shallow Deletion,ACH-002150,-1.2524993231365666,LB1047RCC,Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma,,Other
+ACH-002265,Shallow Deletion,ACH-002265,-1.2200507999200223,LB771HNC,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-002156,Copy Neutral / Gain,ACH-002156,-1.0978619988194955,LC1SQ,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,,Other
+ACH-000596,Shallow Deletion,ACH-000596,-1.3838989626627902,LCLC97TM1,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.692092375427572,Other
+ACH-002269,Copy Neutral / Gain,ACH-002269,-0.8968151328114609,LNZTA3WT4,Diffuse Glioma,CNS/Brain,Diffuse Glioma,,Other
+ACH-000438,Shallow Deletion,ACH-000438,-1.457298117252073,LU65,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.505255800932163,Other
+ACH-002160,Copy Neutral / Gain,ACH-002160,-1.2379184596931596,MCIXC,Ewing Sarcoma,Bone,Ewing Sarcoma,,Other
+ACH-000876,Copy Neutral / Gain,ACH-000876,-1.031054831058501,MDAMB415,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.17192735435346,Other
+ACH-001819,Copy Neutral / Gain,ACH-001819,-1.461094134114227,MFM223,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,4.857483428286672,Other
+ACH-002161,Shallow Deletion,ACH-002161,-1.3196173406050835,MKN28,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,,Other
+ACH-001126,Copy Neutral / Gain,ACH-001126,-0.8803325351932976,MOGGUVW,Diffuse Glioma,CNS/Brain,Diffuse Glioma,,Other
+ACH-002278,Shallow Deletion,ACH-002278,-1.2752841826459829,NB10,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,,Other
+ACH-002280,Copy Neutral / Gain,ACH-002280,-1.380239525290526,NB13,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,,Other
+ACH-002282,Deep Deletion,ACH-002282,-1.4550243653941843,NB17,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,,Other
+ACH-002283,Deep Deletion,ACH-002283,-1.3581575472420797,NB5,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,,Other
+ACH-002284,Copy Neutral / Gain,ACH-002284,-1.4156081494306867,NB6,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,,Other
+ACH-002285,Shallow Deletion,ACH-002285,-1.33157299232375,NB7,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,,Other
+ACH-001137,Copy Neutral / Gain,ACH-001137,-0.9163684632590692,NCIH1993,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,,Other
+ACH-000337,Copy Neutral / Gain,ACH-000337,-1.281601861916425,NCIH3122,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.757556688939453,Other
+ACH-000962,Copy Neutral / Gain,ACH-000962,-1.2682571416238917,OC314,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.986865972329115,Other
+ACH-002179,Shallow Deletion,ACH-002179,-0.9914204668194346,OCUBM,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,,Other
+ACH-000024,Shallow Deletion,ACH-000024,-1.0459979882433712,OPM2,Mature B-Cell Neoplasms,Lymphoid,Mature B-Cell Neoplasms,5.350143602017798,Other
+ACH-002181,Shallow Deletion,ACH-002181,-1.509976641960295,OVCA420,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,,Other
+ACH-001151,Shallow Deletion,ACH-001151,-1.3848267696727317,OVCAR5,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.139960569545456,Other
+ACH-002183,Copy Neutral / Gain,ACH-002183,-1.3083986074999836,OVMIU,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,,Other
+ACH-002294,Copy Neutral / Gain,ACH-002294,-1.1005731400808467,PCI15A,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-002295,Copy Neutral / Gain,ACH-002295,-1.0333697086916729,PCI30,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-002296,Shallow Deletion,ACH-002296,-1.1742428025378424,PCI38,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-002297,Shallow Deletion,ACH-002297,-1.216794741624439,PCI4B,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-002298,Deep Deletion,ACH-002298,-1.4113905487338252,PCI6A,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-001630,Copy Neutral / Gain,ACH-001630,-1.3167045604261571,PEO1,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.157852169141737,Other
+ACH-001632,Copy Neutral / Gain,ACH-001632,-1.2149022398011795,PEO4,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,3.797012977836145,Other
+ACH-002186,Deep Deletion,ACH-002186,-1.143122214732295,PL4,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,,Other
+ACH-002189,Copy Neutral / Gain,ACH-002189,-1.4109754230709228,RCCFG2,Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma,,Other
+ACH-000442,Copy Neutral / Gain,ACH-000442,-1.1830449547660562,RERFLCSQ1,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.073820233291672,Other
+ACH-001639,Copy Neutral / Gain,ACH-001639,-1.392828161984896,ROS50,Mature B-Cell Neoplasms,Lymphoid,Mature B-Cell Neoplasms,,Other
+ACH-000817,Copy Neutral / Gain,ACH-000817,-1.3167883808408234,RPMI8226,Mature B-Cell Neoplasms,Lymphoid,Mature B-Cell Neoplasms,5.675251386050259,Other
+ACH-000238,Copy Neutral / Gain,ACH-000238,-1.1922833397869723,SCC4,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,5.199672344836364,Other
+ACH-002198,Copy Neutral / Gain,ACH-002198,-1.0404616899799417,SCH,Extra Gonadal Germ Cell Tumor,Other,Extra Gonadal Germ Cell Tumor,,Other
+ACH-000273,Copy Neutral / Gain,ACH-000273,-1.096091847774999,SF539,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.391973883060293,Other
+ACH-002304,Copy Neutral / Gain,ACH-002304,-0.9854714260231808,SKMG1,Diffuse Glioma,CNS/Brain,Diffuse Glioma,,Other
+ACH-002305,Copy Neutral / Gain,ACH-002305,-1.3208141477489008,SKN3,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,,Other
+ACH-001193,Copy Neutral / Gain,ACH-001193,-1.4321531120308986,SKPNDW,Ewing Sarcoma,Bone,Ewing Sarcoma,6.050719347751264,Other
+ACH-000504,Copy Neutral / Gain,ACH-000504,-1.370338274602665,SNB75,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.377123749129487,Other
+ACH-000722,Shallow Deletion,ACH-000722,-0.8279866569186995,SNUC1,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.422569410860832,Other
+ACH-000970,Copy Neutral / Gain,ACH-000970,-0.8987155400948635,SNUC5,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.309612772454123,Other
+ACH-000660,Copy Neutral / Gain,ACH-000660,-1.198924212922395,SUDHL5,Mature B-Cell Neoplasms,Lymphoid,Mature B-Cell Neoplasms,5.802968651005583,Other
+ACH-002202,Copy Neutral / Gain,ACH-002202,-1.2187165658352632,TMK1,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,,Other
+ACH-001233,Copy Neutral / Gain,ACH-001233,-1.247723770397042,VMRCLCD,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,,Other
+ACH-001500,Copy Neutral / Gain,ACH-001500,-1.0064913743935842,FLO1,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,4.855491443101874,Other
+ACH-001654,Shallow Deletion,ACH-001654,-1.1477981749153858,SKGT4,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,4.245647773636751,Other
+ACH-000794,Copy Neutral / Gain,ACH-000794,-1.032939109509145,BICR22,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,3.893362210763872,Other
+ACH-001332,Copy Neutral / Gain,ACH-001332,-1.109512905831218,BICR78,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.145677455195635,Other
+ACH-000518,Copy Neutral / Gain,ACH-000518,-1.1485241975435403,CAL33,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,5.130930869826448,Other
+ACH-000532,Shallow Deletion,ACH-000532,-1.4416938371079486,SNU61,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,3.606442228131608,Other
+ACH-000991,Copy Neutral / Gain,ACH-000991,-1.172754962381103,SNU81,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.606146078065724,Other
+ACH-000926,Deep Deletion,ACH-000926,-1.2893041188805772,HT55,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.053980168187652,Other
+ACH-000704,Shallow Deletion,ACH-000704,-1.1050310681508264,OAW42,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.343407822297814,Other
+ACH-000662,Shallow Deletion,ACH-000662,-1.2975134747459236,CORL23,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.861459166361513,Other
+ACH-000657,Copy Neutral / Gain,ACH-000657,-1.1794203962189358,A2780,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.57198012018773,Other
+ACH-000847,Copy Neutral / Gain,ACH-000847,-1.3577325540808594,HGC27,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,5.341274183692175,Other
+ACH-000320,Shallow Deletion,ACH-000320,-1.4769646717060787,PSN1,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,4.504620392403552,Other
+ACH-001345,Copy Neutral / Gain,ACH-001345,-1.110440751065649,GP5D,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.342696959981934,Other
+ACH-000619,Shallow Deletion,ACH-000619,-1.3255388740664351,PECAPJ15,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.797012977836145,Other
+ACH-000935,Shallow Deletion,ACH-000935,-0.9292643041350972,MDST8,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.992768430768924,Other
+ACH-000213,Shallow Deletion,ACH-000213,-1.1902202325665892,HUPT4,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,4.634012356402116,Other
+ACH-000023,Deep Deletion,ACH-000023,-1.3446759795935783,PATU8988T,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,5.478971805032942,Other
+ACH-000391,Copy Neutral / Gain,ACH-000391,-0.961920512002616,MHHES1,Ewing Sarcoma,Bone,Ewing Sarcoma,5.522620761042079,Other
+ACH-000599,Shallow Deletion,ACH-000599,-1.236545583375197,PATU8902,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,4.920769673020648,Other
+ACH-000717,Shallow Deletion,ACH-000717,-0.8218878761032029,COLO680N,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,4.832890014164741,Other
+ACH-000936,Shallow Deletion,ACH-000936,-1.2465657488942,EFO27,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.531069492725954,Other
+ACH-000350,Shallow Deletion,ACH-000350,-1.0772046419296597,COLO678,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.18308946064076,Other
+ACH-000948,Copy Neutral / Gain,ACH-000948,-0.9508867460184988,2313287,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,4.868884273028773,Other
+ACH-000308,Copy Neutral / Gain,ACH-000308,-1.049212578775509,EFO21,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.234577959784565,Other
+ACH-000098,Copy Neutral / Gain,ACH-000098,-0.962727258403184,GAMG,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.661635602335959,Other
+ACH-000113,Deep Deletion,ACH-000113,-1.31471903024712,OCIAML2,Acute Myeloid Leukemia,Myeloid,Acute Myeloid Leukemia,3.854993016757,Other
+ACH-000243,Shallow Deletion,ACH-000243,-1.3117124338657693,DANG,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,4.961623328286945,Other
+ACH-000118,Copy Neutral / Gain,ACH-000118,-1.5308887672356242,HUPT3,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,5.3348542693316325,Other
+ACH-000787,Shallow Deletion,ACH-000787,-1.2205633900631565,LXF289,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.636334602442182,Other
+ACH-000244,Copy Neutral / Gain,ACH-000244,-1.1066841791432365,DKMG,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.053545817727984,Other
+ACH-000856,Copy Neutral / Gain,ACH-000856,-0.8977652571778948,CAL51,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.144862142915734,Other
+ACH-000823,Copy Neutral / Gain,ACH-000823,-0.9226473647570368,KYSE140,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,4.74416109557041,Other
+ACH-000784,Copy Neutral / Gain,ACH-000784,-1.0119828049988375,KYSE70,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,4.480265122054463,Other
+ACH-000637,Shallow Deletion,ACH-000637,-1.1655852374642146,KYSE520,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,4.911212201558612,Other
+ACH-000824,Copy Neutral / Gain,ACH-000824,-0.8888174021243812,KYSE510,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,4.798569003556882,Other
+ACH-000855,Shallow Deletion,ACH-000855,-1.153404897570438,KYSE150,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,5.241840183564671,Other
+ACH-000873,Copy Neutral / Gain,ACH-000873,-0.9004966441705984,KYSE270,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,4.974529312483882,Other
+ACH-000809,Shallow Deletion,ACH-000809,-1.350143468034929,KYSE410,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,4.471837762422287,Other
+ACH-001494,Copy Neutral / Gain,ACH-001494,-0.8247572334951226,EGI1,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,4.160274831408593,Other
+ACH-000865,Shallow Deletion,ACH-000865,-1.3860811096318493,KYSE450,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,5.36562255611334,Other
+ACH-000176,Copy Neutral / Gain,ACH-000176,-1.2636355944298838,LOUNH91,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.113117036390723,Other
+ACH-000548,Copy Neutral / Gain,ACH-000548,-1.1277193280691984,BHY,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,5.1081062236861285,Other
+ACH-000192,Deep Deletion,ACH-000192,-1.8184100703474213,MFE280,Endometrial Carcinoma,Uterus,Endometrial Carcinoma,3.84799690655495,Other
+ACH-000879,Copy Neutral / Gain,ACH-000879,-1.178023232342631,MFE296,Endometrial Carcinoma,Uterus,Endometrial Carcinoma,5.604664415163704,Other
+ACH-000323,Copy Neutral / Gain,ACH-000323,-1.8123061336063424,42MGBA,Diffuse Glioma,CNS/Brain,Diffuse Glioma,4.282439805006387,Other
+ACH-000137,Shallow Deletion,ACH-000137,-1.15430317527812,8MGBA,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.419538891513785,Other
+ACH-001715,Copy Neutral / Gain,ACH-001715,-0.8296144604408121,CAL72,Osteosarcoma,Bone,Osteosarcoma,5.415826257472914,Other
+ACH-000913,Copy Neutral / Gain,ACH-000913,-1.289363499145826,ESS1,Uterine Sarcoma/Mesenchymal,Uterus,Uterine Sarcoma/Mesenchymal,5.245647773636751,Other
+ACH-000249,Copy Neutral / Gain,ACH-000249,-1.1699818910425457,CL11,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.035183996618336,Other
+ACH-000183,Shallow Deletion,ACH-000183,-0.7699301982953048,L363,Mature B-Cell Neoplasms,Lymphoid,Mature B-Cell Neoplasms,6.910492832288714,Other
+ACH-000878,Copy Neutral / Gain,ACH-000878,-0.896083450783743,HCC15,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.111448698487674,Other
+ACH-000424,Copy Neutral / Gain,ACH-000424,-0.8867548157827052,TC71,Ewing Sarcoma,Bone,Ewing Sarcoma,5.316507819103109,Other
+ACH-000124,Deep Deletion,ACH-000124,-1.3901646041381326,OCILY19,Mature B-Cell Neoplasms,Lymphoid,Mature B-Cell Neoplasms,4.0798047546352585,Other
+ACH-000562,Shallow Deletion,ACH-000562,-1.2399834070887186,HCC78,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.064796645911805,Other
+ACH-000656,Shallow Deletion,ACH-000656,-1.3413017389645925,SUDHL8,Mature B-Cell Neoplasms,Lymphoid,Mature B-Cell Neoplasms,5.57198012018773,Other
+ACH-000336,Copy Neutral / Gain,ACH-000336,-1.0734287741748771,OCIAML3,Acute Myeloid Leukemia,Myeloid,Acute Myeloid Leukemia,4.110196177754199,Other
+ACH-000711,Shallow Deletion,ACH-000711,-1.3950492364695397,JIMT1,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,4.776103988073165,Other
+ACH-001368,Copy Neutral / Gain,ACH-001368,-1.2719141259200408,OACM51,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,4.503984703897613,Other
+ACH-000376,Shallow Deletion,ACH-000376,-1.1192391412393554,SF295,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.3458930856874085,Other
+ACH-000207,Shallow Deletion,ACH-000207,-1.245601313405102,DETROIT562,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.985500430304885,Other
+ACH-000681,Shallow Deletion,ACH-000681,-1.4145084938248695,A549,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.298658315564516,Other
+ACH-000997,Copy Neutral / Gain,ACH-000997,-0.977579727391974,HCT15,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.147713722352154,Other
+ACH-000651,Shallow Deletion,ACH-000651,-1.3474244488922746,SW620,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.208283138412519,Other
+ACH-000950,Shallow Deletion,ACH-000950,-0.9476742600614072,LOVO,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.835924074254375,Other
+ACH-000958,Copy Neutral / Gain,ACH-000958,-1.2266145883329664,SW48,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.03738222200308,Other
+ACH-000421,Copy Neutral / Gain,ACH-000421,-1.073965053213426,SW837,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.60139939053183,Other
+ACH-000971,Copy Neutral / Gain,ACH-000971,-1.1275754485629843,HCT116,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.599317793698226,Other
+ACH-000381,Shallow Deletion,ACH-000381,-1.5392034452880337,T84,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.825785627464791,Other
+ACH-000501,Deep Deletion,ACH-000501,-1.5499232269898884,LS123,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.659353759170051,Other
+ACH-000957,Copy Neutral / Gain,ACH-000957,-0.9380292111448963,LS180,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.295723024539968,Other
+ACH-000414,Copy Neutral / Gain,ACH-000414,-1.227905052101606,NCIH1944,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.41886457739032,Other
+ACH-000788,Shallow Deletion,ACH-000788,-1.0464849634025404,A2058,Melanoma,Skin,Melanoma,5.3957483281790335,Other
+ACH-000885,Copy Neutral / Gain,ACH-000885,-1.0249132959282732,TOV21G,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.904002316283692,Other
+ACH-000048,Shallow Deletion,ACH-000048,-1.346956594172197,TOV112D,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.595742339474399,Other
+ACH-000291,Copy Neutral / Gain,ACH-000291,-1.203993473425892,OV90,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.124328135002202,Other
+ACH-000601,Copy Neutral / Gain,ACH-000601,-1.2779424330869409,MIAPACA2,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,5.176322772640463,Other
+ACH-000219,Copy Neutral / Gain,ACH-000219,-1.2173784340481173,A375,Melanoma,Skin,Melanoma,5.499845887083206,Other
+ACH-000558,Deep Deletion,ACH-000558,-1.659368665056551,A172,Diffuse Glioma,CNS/Brain,Diffuse Glioma,4.574101508089389,Other
+ACH-000181,Copy Neutral / Gain,ACH-000181,-1.2275921610896423,SCC9,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.808899839257769,Other
+ACH-000965,Copy Neutral / Gain,ACH-000965,-0.97495634876757,RL952,Endometrial Carcinoma,Uterus,Endometrial Carcinoma,5.062208077560245,Other
+ACH-000222,Shallow Deletion,ACH-000222,-1.227876395981086,ASPC1,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,4.850999394716474,Other
+ACH-000535,Copy Neutral / Gain,ACH-000535,-0.9206115666579492,BXPC3,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,5.209843230525496,Other
+ACH-000571,Shallow Deletion,ACH-000571,-1.0404489272688089,T98G,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.173127433480656,Other
+ACH-000880,Shallow Deletion,ACH-000880,-1.23879193662897,AGS,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,5.355439197248685,Other
+ACH-000977,Copy Neutral / Gain,ACH-000977,-1.1312902086652366,LNCAPCLONEFGC,Prostate Adenocarcinoma,Prostate,Prostate Adenocarcinoma,5.267535798068735,Other
+ACH-000114,Copy Neutral / Gain,ACH-000114,-1.0525914544712536,SU8686,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,5.152183419055046,Other
+ACH-000554,Shallow Deletion,ACH-000554,-1.1160462458709444,UACC893,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,4.979110755015785,Other
+ACH-000411,Deep Deletion,ACH-000411,-1.3915989760804997,769P,Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma,4.257764968571387,Other
+ACH-000906,Deep Deletion,ACH-000906,-1.073633586866292,ES2,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.743622676067655,Other
+ACH-000094,Shallow Deletion,ACH-000094,-1.2548394188440049,HPAFII,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,4.707635219545296,Other
+ACH-000863,Copy Neutral / Gain,ACH-000863,-1.0577027541348334,DBTRG05MG,Diffuse Glioma,CNS/Brain,Diffuse Glioma,4.786596361890807,Other
+ACH-000832,Copy Neutral / Gain,ACH-000832,-1.133750480866372,CAL27,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.7300964655954685,Other
+ACH-000748,Copy Neutral / Gain,ACH-000748,-1.3273833470296936,SJSA1,Osteosarcoma,Bone,Osteosarcoma,5.6946016533561234,Other
+ACH-000009,Shallow Deletion,ACH-000009,-1.4241960032838064,C2BBE1,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.957450336347116,Other
+ACH-000007,Shallow Deletion,ACH-000007,-1.1988117012848158,LS513,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.93451650158608,Other
+ACH-000260,Copy Neutral / Gain,ACH-000260,-1.1037886178391214,SKNAS,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,5.68873986801449,Other
+ACH-000341,Copy Neutral / Gain,ACH-000341,-1.0575601117512703,SKNFI,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,6.465974464504069,Other
+ACH-000366,Shallow Deletion,ACH-000366,-0.9507926371060844,SKNDZ,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,5.341985747228616,Other
+ACH-000252,Deep Deletion,ACH-000252,-1.2472481467586494,LS1034,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.96254902292306,Other
+ACH-000985,Shallow Deletion,ACH-000985,-1.222386602562155,LS411N,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.977737849242815,Damaging
+ACH-000677,Deep Deletion,ACH-000677,-1.2001309131571771,SW1573,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.534808661231747,Other
+ACH-000155,Shallow Deletion,ACH-000155,-1.587098392588336,SW1990,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,4.229587922740652,Other
+ACH-000120,Deep Deletion,ACH-000120,-1.631201475728521,CHP212,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,4.405992359675837,Other
+ACH-000276,Deep Deletion,ACH-000276,-1.1533758383390444,HCC38,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.134220939760634,Other
+ACH-000374,Copy Neutral / Gain,ACH-000374,-1.0937264585732678,HCC1143,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.607626220845488,Other
+ACH-000111,Copy Neutral / Gain,ACH-000111,-1.3371852152025612,HCC1187,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.726831217032493,Other
+ACH-000699,Shallow Deletion,ACH-000699,-1.3295351657859755,HCC1395,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.011227255423254,Other
+ACH-000624,Copy Neutral / Gain,ACH-000624,-0.811615547558835,HCC1806,Breast Ductal Carcinoma In Situ,Breast,Breast Ductal Carcinoma In Situ,4.467279480459983,Other
+ACH-000223,Deep Deletion,ACH-000223,-1.243405182763079,HCC1937,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.091276694365222,Other
+ACH-000859,Shallow Deletion,ACH-000859,-1.2688891204968156,HCC1954,Breast Ductal Carcinoma In Situ,Breast,Breast Ductal Carcinoma In Situ,4.853496703702325,Other
+ACH-000248,Shallow Deletion,ACH-000248,-1.6755514023534732,AU565,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,4.9823091301297735,Other
+ACH-000956,Copy Neutral / Gain,ACH-000956,-1.2049607777784177,22RV1,Prostate Adenocarcinoma,Prostate,Prostate Adenocarcinoma,5.068240861312821,Other
+ACH-000060,Deep Deletion,ACH-000060,-1.6600788625182958,PANC1005,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,5.046578366620329,Other
+ACH-000139,Deep Deletion,ACH-000139,-1.5944225059539183,PANC0327,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,4.408032466130653,Other
+ACH-000417,Shallow Deletion,ACH-000417,-1.1111738223149814,PANC0813,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,5.523561956057013,Other
+ACH-000042,Shallow Deletion,ACH-000042,-1.2471814251131916,PANC0203,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,4.767125077269071,Other
+ACH-000235,Shallow Deletion,ACH-000235,-1.1857849016401396,PANC0403,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,4.658782734012828,Other
+ACH-000943,Copy Neutral / Gain,ACH-000943,-1.0539833577198028,RKO,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.708739041359579,Other
+ACH-000595,Shallow Deletion,ACH-000595,-1.5852205350008273,LN229,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.404630684217612,Other
+ACH-001418,Copy Neutral / Gain,ACH-001418,-0.8665663397153668,UWB1289,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.75595576955096,Other
+ACH-000271,Copy Neutral / Gain,ACH-000271,-1.1670572011888445,SUDHL10,Mature B-Cell Neoplasms,Lymphoid,Mature B-Cell Neoplasms,4.529820946528695,Other
+ACH-000900,Copy Neutral / Gain,ACH-000900,-1.277144698959195,NCIH23,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.46532151358055,Other
+ACH-000510,Copy Neutral / Gain,ACH-000510,-0.987990042204058,NCIH1299,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.295723024539968,Other
+ACH-000860,Shallow Deletion,ACH-000860,-1.208127310346671,NCIH358,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.72982464363689,Other
+ACH-000980,Shallow Deletion,ACH-000980,-1.2441032411276185,NCIH1155,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.87455108689664,Other
+ACH-000427,Deep Deletion,ACH-000427,-1.122375105459512,NCIN87,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,4.603477988254004,Damaging
+ACH-000367,Copy Neutral / Gain,ACH-000367,-1.642639848527874,NCIH226,Pleural Mesothelioma,Pleura,Pleural Mesothelioma,5.17951105027151,Other
+ACH-000945,Deep Deletion,ACH-000945,-0.8788564574416886,NCIH650,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.765004246250036,Other
+ACH-000666,Copy Neutral / Gain,ACH-000666,-1.012556700661217,NCIH1355,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.6604951318885135,Other
+ACH-000869,Shallow Deletion,ACH-000869,-1.4058250713267797,NCIH1568,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.86195536414487,Other
+ACH-000894,Shallow Deletion,ACH-000894,-1.3365528067563466,NCIH1869,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,3.82273014794452,Other
+ACH-000434,Shallow Deletion,ACH-000434,-1.4585418994772068,NCIH1915,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.417515002885087,Other
+ACH-000587,Shallow Deletion,ACH-000587,-1.4148479609625673,NCIH1975,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.789207575347344,Other
+ACH-000781,Copy Neutral / Gain,ACH-000781,-0.8498679628759434,NCIH2023,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.123086750981061,Other
+ACH-000841,Copy Neutral / Gain,ACH-000841,-0.971765195832376,NCIH2087,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.342696959981934,Other
+ACH-000481,Shallow Deletion,ACH-000481,-1.3001579745466996,NCIH2170,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.765004246250036,Other
+ACH-000932,Copy Neutral / Gain,ACH-000932,-1.1015421598991104,SNU1,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,4.974529312483882,Other
+ACH-000581,Copy Neutral / Gain,ACH-000581,-1.155978269071455,SNU16,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,5.919101679559393,Other
+ACH-000293,Copy Neutral / Gain,ACH-000293,-0.9907901574742654,KLE,Endometrial Carcinoma,Uterus,Endometrial Carcinoma,5.560714954474479,Other
+ACH-000544,Copy Neutral / Gain,ACH-000544,-1.2543632498748796,OE21,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,4.0557162635125446,Other
+ACH-000911,Shallow Deletion,ACH-000911,-0.9410599591637148,NUGC3,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,4.792334805706692,Other
+ACH-000696,Shallow Deletion,ACH-000696,-1.33051795493862,OVCAR8,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.0798047546352585,Other
+ACH-000858,Shallow Deletion,ACH-000858,-1.3301464383219377,KNS62,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,3.6678921252302334,Other
+ACH-000204,Shallow Deletion,ACH-000204,-1.0386262968642317,LP1,Mature B-Cell Neoplasms,Lymphoid,Mature B-Cell Neoplasms,5.444269502413482,Other
+ACH-000437,Copy Neutral / Gain,ACH-000437,-1.015756694837776,SW1088,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.539469034749887,Other
+ACH-000793,Shallow Deletion,ACH-000793,-1.1409672776586104,KATOIII,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,5.076388068512841,Other
+ACH-000149,Copy Neutral / Gain,ACH-000149,-1.028185422451242,SKNSH,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,5.348728154231077,Other
+ACH-000573,Deep Deletion,ACH-000573,-1.698222689539559,MDAMB436,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,4.90544717873885,Other
+ACH-000910,Copy Neutral / Gain,ACH-000910,-1.240831992182195,MDAMB453,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.386121156814855,Other
+ACH-000849,Shallow Deletion,ACH-000849,-1.4516314712582945,MDAMB468,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.040892430646901,Other
+ACH-000147,Shallow Deletion,ACH-000147,-1.451942489357452,T47D,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.04788732939655,Other
+ACH-000067,Copy Neutral / Gain,ACH-000067,-0.9955801137211268,HS683,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.499845887083206,Other
+ACH-000075,Shallow Deletion,ACH-000075,-1.0808066505763712,U87MG,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.407692648665677,Other
+ACH-000395,Copy Neutral / Gain,ACH-000395,-1.3200762887428803,NCIH520,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.6904170955324656,Other
+ACH-000019,Shallow Deletion,ACH-000019,-1.3777340860807654,MCF7,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,4.938756261492295,Other
+ACH-000768,Copy Neutral / Gain,ACH-000768,-1.606282869635235,MDAMB231,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.474111513942408,Other
+ACH-000934,Shallow Deletion,ACH-000934,-2.080965735879504,MDAMB361,Invasive Breast Carcinoma,Breast,Invasive Breast Carcinoma,5.284292026394312,Other
+ACH-000552,Copy Neutral / Gain,ACH-000552,-1.1491308775296534,HT29,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,5.353323291162897,Other
+ACH-000740,Shallow Deletion,ACH-000740,-1.3511664183867012,A253,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.321206566969903,Other
+ACH-000846,Shallow Deletion,ACH-000846,-1.2208807400917892,FADU,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.7311832415722,Other
+ACH-000665,Copy Neutral / Gain,ACH-000665,-0.9261215703828756,SKMES1,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.561937059622433,Other
+ACH-001190,Copy Neutral / Gain,ACH-001190,-1.2770235868887705,SKMEL2,Melanoma,Skin,Melanoma,5.510012465448515,Other
+ACH-000001,Copy Neutral / Gain,ACH-000001,-0.3519725321763229,NIHOVCAR3,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.976134472831654,Other
+ACH-000103,Copy Neutral / Gain,ACH-000103,-0.9636068932890534,CAOV4,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.33699741660501,Other
+ACH-001399,Shallow Deletion,ACH-001399,-1.5095184025337056,SW626,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.388878338811989,Other
+ACH-000354,Shallow Deletion,ACH-000354,-1.1083483655924309,CAPAN1,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,4.87921563716567,Other
+ACH-000979,Shallow Deletion,ACH-000979,-1.4737514641932383,DU145,Prostate Adenocarcinoma,Prostate,Prostate Adenocarcinoma,,Other
+ACH-000464,Shallow Deletion,ACH-000464,-1.3071496603683948,CAS1,Diffuse Glioma,CNS/Brain,Diffuse Glioma,4.7349805234358895,Other
+ACH-000609,Copy Neutral / Gain,ACH-000609,-1.1963673513627249,SF126,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.4495613746132365,Other
+ACH-000719,Copy Neutral / Gain,ACH-000719,-0.9088346322854624,RMGI,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.886062338345599,Other
+ACH-000622,Deep Deletion,ACH-000622,-1.9070393971620947,KNS42,Diffuse Glioma,CNS/Brain,Diffuse Glioma,4.36667191611176,Other
+ACH-001605,Copy Neutral / Gain,ACH-001605,-1.4405330492416923,NO10,Diffuse Glioma,CNS/Brain,Diffuse Glioma,4.742545233866053,Other
+ACH-001606,Shallow Deletion,ACH-001606,-1.2640014692031216,NO11,Diffuse Glioma,CNS/Brain,Diffuse Glioma,,Other
+ACH-000227,Deep Deletion,ACH-000227,-1.3099586051644316,KPNYN,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,4.522934560943456,Other
+ACH-000200,Copy Neutral / Gain,ACH-000200,-0.9088676513282624,NMCG1,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.177519202597814,Other
+ACH-000738,Copy Neutral / Gain,ACH-000738,-1.0853534845974673,GB1,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.8376910004285625,Other
+ACH-000269,Shallow Deletion,ACH-000269,-1.3861378264261277,AM38,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.483170853229874,Other
+ACH-000469,Copy Neutral / Gain,ACH-000469,-1.4240438548573526,YH13,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.285772093249838,Other
+ACH-001517,Copy Neutral / Gain,ACH-001517,-1.225134012276466,HEC1,Endometrial Carcinoma,Uterus,Endometrial Carcinoma,4.814037647539975,Other
+ACH-000524,Copy Neutral / Gain,ACH-000524,-1.1482537239795363,KURAMOCHI,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.812498225333564,Other
+ACH-000505,Shallow Deletion,ACH-000505,-1.130752504541702,RKN,Leiomyosarcoma,Soft Tissue,Leiomyosarcoma,5.733354340613827,Other
+ACH-000108,Copy Neutral / Gain,ACH-000108,-1.0921347938745276,KP3,Adenosquamous Carcinoma of the Pancreas,Pancreas,Adenosquamous Carcinoma of the Pancreas,5.189033824390017,Other
+ACH-000974,Copy Neutral / Gain,ACH-000974,-1.0257031876855334,SNGM,Endometrial Carcinoma,Uterus,Endometrial Carcinoma,4.885574364371426,Other
+ACH-001542,Shallow Deletion,ACH-001542,-1.1565362371285166,KON,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,3.646162657157894,Other
+ACH-001626,Copy Neutral / Gain,ACH-001626,-1.292451734740653,OSC20,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.615887073916057,Other
+ACH-001625,Shallow Deletion,ACH-001625,-1.5983361746015128,OSC19,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.666756591884804,Other
+ACH-000430,Copy Neutral / Gain,ACH-000430,-0.9511627587462194,TYKNU,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.622344722724236,Other
+ACH-000796,Copy Neutral / Gain,ACH-000796,-1.059473201062637,MCAS,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.369466483650723,Other
+ACH-000565,Deep Deletion,ACH-000565,-1.05936205345753,RCM1,Colorectal Adenocarcinoma,Bowel,Colorectal Adenocarcinoma,4.647890091059215,Other
+ACH-000561,Shallow Deletion,ACH-000561,-1.3976992741437366,TDOTT,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,4.891905188211931,Other
+ACH-001674,Copy Neutral / Gain,ACH-001674,-1.0907964502402232,TGW,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,6.108942568660791,Other
+ACH-000778,Copy Neutral / Gain,ACH-000778,-1.329256691241886,HSC3,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.793375711264754,Other
+ACH-001603,Deep Deletion,ACH-001603,-1.5165272106321224,NH12,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,3.3909427728025427,Other
+ACH-000144,Copy Neutral / Gain,ACH-000144,-1.0592310865677526,RERFGC1B,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,5.968551603363945,Other
+ACH-000527,Copy Neutral / Gain,ACH-000527,-1.36241677641347,OVISE,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.494415610397496,Other
+ACH-000919,Copy Neutral / Gain,ACH-000919,-1.3007646757359477,IM95,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,4.934988201783478,Other
+ACH-000843,Shallow Deletion,ACH-000843,-1.533603034446256,HARA,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.707082991771706,Other
+ACH-000652,Copy Neutral / Gain,ACH-000652,-1.1269213498592132,SUIT2,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,5.587064898363171,Other
+ACH-000714,Copy Neutral / Gain,ACH-000714,-1.0587420987158906,KMS11,Mature B-Cell Neoplasms,Lymphoid,Mature B-Cell Neoplasms,5.77082904603249,Other
+ACH-000232,Copy Neutral / Gain,ACH-000232,-1.0601316814696833,U251MG,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.415150205426387,Other
+ACH-000035,Deep Deletion,ACH-000035,-1.4675947052014648,NCIH1650,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.320484678017694,Other
+ACH-000383,Deep Deletion,ACH-000383,-1.0961426034765465,OE33,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Adenocarcinoma,4.638073837180719,Other
+ACH-002083,Shallow Deletion,ACH-002083,-1.205617533651321,NB69,Neuroblastoma,Peripheral Nervous System,Neuroblastoma,,Other
+ACH-000756,Deep Deletion,ACH-000756,-1.21541540209689,GI1,Diffuse Glioma,CNS/Brain,Diffuse Glioma,5.27015513876653,Other
+ACH-000305,Shallow Deletion,ACH-000305,-1.7640649962156625,ECGI10,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,5.136273429850582,Other
+ACH-000265,Copy Neutral / Gain,ACH-000265,-1.0287820419590958,KP4,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Adenocarcinoma,5.655924213083815,Other
+ACH-000132,Copy Neutral / Gain,ACH-000132,-1.237087824536879,JHOS2,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,4.2024177215751815,Other
+ACH-000584,Copy Neutral / Gain,ACH-000584,-1.3567325787841156,JHOS4,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.296824458649369,Other
+ACH-000947,Copy Neutral / Gain,ACH-000947,-1.201269929266426,OVK18,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,5.381629467033664,Other
+ACH-000408,Deep Deletion,ACH-000408,-1.3576337681993804,TE5,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,4.066089190457772,Other
+ACH-000563,Deep Deletion,ACH-000563,-1.5894237071859578,EBC1,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,5.635464198167884,Other
+ACH-000769,Shallow Deletion,ACH-000769,-1.1757418837071694,LK2,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.754887502163468,Other
+ACH-002029,Shallow Deletion,ACH-002029,-1.4201717655900443,SAS,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.036503333738988,Other
+ACH-002043,Shallow Deletion,ACH-002043,-1.7678317207385543,CA922,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,3.14893410452634,Other
+ACH-000694,Shallow Deletion,ACH-000694,-1.4740938402056931,TE9,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,5.118941072723508,Other
+ACH-000917,Shallow Deletion,ACH-000917,-1.1368704153562834,TE4,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,4.777682717073553,Other
+ACH-000452,Copy Neutral / Gain,ACH-000452,-1.0458779074010829,TE8,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,5.624685810525398,Other
+ACH-000318,Copy Neutral / Gain,ACH-000318,-1.0375702555640178,TE10,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,5.267910280884825,Other
+ACH-002045,Shallow Deletion,ACH-002045,-1.2803427396529987,HO1U1,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Squamous Cell Carcinoma,4.101818134227409,Other
+ACH-000030,Shallow Deletion,ACH-000030,-1.3189518471092383,PC14,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer,4.661065479806948,Other

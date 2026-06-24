@@ -1,0 +1,210 @@
+GO-term,Cellular Component (Gene Ontology),Count in Network,Strength,Signal,FDR
+GO:0090068,Positive regulation of cell cycle process,27 of 251,0.92,1.98,6.49E-13
+GO:0010564,Regulation of cell cycle process,51 of 716,0.74,1.92,1.53E-18
+GO:0000278,Mitotic cell cycle,45 of 631,0.74,1.82,3.09E-16
+GO:0033044,Regulation of chromosome organization,25 of 253,0.88,1.75,3.14E-11
+GO:0007049,Cell cycle,69 of 1246,0.63,1.68,2.61E-20
+GO:0051983,Regulation of chromosome segregation,17 of 128,1.01,1.66,4.6E-09
+GO:0045787,Positive regulation of cell cycle,29 of 349,0.8,1.65,1.68E-11
+GO:1903047,Mitotic cell cycle process,37 of 537,0.72,1.59,1.03E-12
+GO:1905820,Positive regulation of chromosome separation,9 of 28,1.39,1.58,4.31E-07
+GO:1905818,Regulation of chromosome separation,15 of 109,1.02,1.53,4.6E-08
+GO:0051726,Regulation of cell cycle,59 of 1108,0.61,1.52,2.55E-16
+GO:0051301,Cell division,35 of 527,0.71,1.48,1.57E-11
+GO:0007059,Chromosome segregation,24 of 286,0.81,1.47,1.88E-09
+GO:0022402,Cell cycle process,47 of 835,0.63,1.46,2.01E-13
+GO:1901987,Regulation of cell cycle phase transition,30 of 431,0.73,1.42,2.87E-10
+GO:0051276,Chromosome organization,50 of 968,0.6,1.37,4.18E-13
+GO:1901990,Regulation of mitotic cell cycle phase transition,24 of 332,0.74,1.26,3E-08
+GO:0000070,Mitotic sister chromatid segregation,14 of 122,0.94,1.24,1.21E-06
+GO:0033045,Regulation of sister chromatid segregation,13 of 105,0.98,1.24,1.76E-06
+GO:0000819,Sister chromatid segregation,15 of 144,0.9,1.22,1.13E-06
+GO:1902850,Microtubule cytoskeleton organization involved in mitosis,14 of 129,0.92,1.19,1.93E-06
+GO:0033043,Regulation of organelle organization,52 of 1190,0.52,1.16,3.21E-11
+GO:0007346,Regulation of mitotic cell cycle,29 of 493,0.65,1.16,2.99E-08
+GO:0010965,Regulation of mitotic sister chromatid separation,12 of 96,0.98,1.16,5.02E-06
+GO:0140694,Non-membrane-bounded organelle assembly,22 of 314,0.73,1.15,2.85E-07
+GO:0140014,Mitotic nuclear division,16 of 175,0.85,1.15,1.65E-06
+GO:0007051,Spindle organization,15 of 160,0.86,1.12,3.07E-06
+GO:0098813,Nuclear chromosome segregation,18 of 229,0.78,1.1,1.65E-06
+GO:0006338,Chromatin remodeling,21 of 303,0.73,1.09,7.77E-07
+GO:0030071,Regulation of mitotic metaphase/anaphase transition,11 of 91,0.97,1.05,2.13E-05
+GO:0000226,Microtubule cytoskeleton organization,29 of 542,0.61,1.04,2.08E-07
+GO:0000280,Nuclear division,21 of 323,0.7,1.03,1.79E-06
+GO:0006996,Organelle organization,106 of 3470,0.37,1.01,4.34E-15
+GO:0006403,RNA localization,15 of 180,0.81,1.01,1.08E-05
+GO:1901970,Positive regulation of mitotic sister chromatid separation,6 of 19,1.38,1.01,0.00012
+GO:0050658,RNA transport,14 of 159,0.83,0.99,1.61E-05
+GO:0007088,Regulation of mitotic nuclear division,12 of 118,0.89,0.98,2.96E-05
+GO:1902275,Regulation of chromatin organization,8 of 47,1.12,0.98,9.48E-05
+GO:0090304,Nucleic acid metabolic process,73 of 2203,0.4,0.96,6.52E-11
+GO:0006325,Chromatin organization,30 of 612,0.57,0.96,6.29E-07
+GO:0006405,RNA export from nucleus,10 of 83,0.97,0.95,7.06E-05
+GO:0051128,Regulation of cellular component organization,75 of 2365,0.39,0.92,2.06E-10
+GO:0016071,mRNA metabolic process,29 of 611,0.56,0.91,1.81E-06
+GO:0051028,mRNA transport,12 of 129,0.85,0.91,6.61E-05
+GO:0000184,"Nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",7 of 37,1.16,0.91,0.00022
+GO:0051168,Nuclear export,12 of 132,0.84,0.89,7.56E-05
+GO:0032465,Regulation of cytokinesis,10 of 94,0.91,0.86,0.00016
+GO:0051984,Positive regulation of chromosome segregation,6 of 26,1.25,0.86,0.00043
+GO:0007052,Mitotic spindle organization,10 of 97,0.9,0.84,0.00020
+GO:0007017,Microtubule-based process,33 of 803,0.5,0.82,3.79E-06
+GO:0060236,Regulation of mitotic spindle organization,7 of 45,1.08,0.79,0.00062
+GO:0032467,Positive regulation of cytokinesis,7 of 45,1.08,0.79,0.00062
+GO:0071840,Cellular component organization or biogenesis,134 of 5639,0.26,0.78,5.49E-12
+GO:0007010,Cytoskeleton organization,43 of 1229,0.43,0.78,2.1E-06
+GO:0031497,Chromatin assembly,13 of 179,0.75,0.78,0.00021
+GO:0016070,RNA metabolic process,50 of 1550,0.39,0.76,1.61E-06
+GO:0006397,mRNA processing,22 of 455,0.57,0.76,6.13E-05
+GO:0070507,Regulation of microtubule cytoskeleton organization,12 of 157,0.77,0.76,0.00031
+GO:0010847,Regulation of chromatin assembly,6 of 32,1.16,0.76,0.0010
+GO:0016043,Cellular component organization,127 of 5436,0.25,0.75,1.53E-10
+GO:0006396,RNA processing,33 of 868,0.46,0.74,1.74E-05
+GO:1901978,Positive regulation of cell cycle checkpoint,5 of 19,1.3,0.74,0.0014
+GO:0008380,RNA splicing,19 of 370,0.6,0.73,0.00014
+GO:0006139,Nucleobase-containing compound metabolic process,74 of 2722,0.32,0.72,2.8E-07
+GO:0010638,Positive regulation of organelle organization,23 of 508,0.54,0.72,8.56E-05
+GO:0006913,Nucleocytoplasmic transport,15 of 248,0.67,0.72,0.00027
+GO:1901989,Positive regulation of cell cycle phase transition,10 of 115,0.82,0.72,0.00070
+GO:1901992,Positive regulation of mitotic cell cycle phase transition,9 of 92,0.87,0.72,0.00084
+GO:0010558,Negative regulation of macromolecule biosynthetic process,48 of 1532,0.38,0.71,5.88E-06
+GO:0045786,Negative regulation of cell cycle,18 of 359,0.58,0.68,0.00031
+GO:0032886,Regulation of microtubule-based process,15 of 261,0.64,0.68,0.00046
+GO:0045931,Positive regulation of mitotic cell cycle,10 of 121,0.8,0.68,0.00097
+GO:0031327,Negative regulation of cellular biosynthetic process,48 of 1592,0.36,0.67,1.63E-05
+GO:0006260,DNA replication,13 of 203,0.69,0.67,0.00066
+GO:0006334,Nucleosome assembly,10 of 124,0.79,0.67,0.0011
+GO:0051493,Regulation of cytoskeleton organization,23 of 541,0.51,0.66,0.00020
+GO:0060623,Regulation of chromosome condensation,4 of 11,1.45,0.66,0.0033
+GO:0051256,Mitotic spindle midzone assembly,4 of 11,1.45,0.66,0.0033
+GO:0006259,DNA metabolic process,29 of 785,0.45,0.65,0.00014
+GO:0010948,Negative regulation of cell cycle process,15 of 272,0.63,0.65,0.00070
+GO:0034063,Stress granule assembly,5 of 24,1.2,0.65,0.0032
+GO:0033365,Protein localization to organelle,27 of 713,0.46,0.64,0.00020
+GO:0031323,Regulation of cellular metabolic process,122 of 5681,0.22,0.63,1.91E-07
+GO:0045892,"Negative regulation of transcription, DNA-templated",41 of 1322,0.38,0.63,6.99E-05
+GO:0022613,Ribonucleoprotein complex biogenesis,20 of 449,0.53,0.63,0.00046
+GO:0045934,Negative regulation of nucleobase-containing compound metabolic process,46 of 1562,0.35,0.62,5.28E-05
+GO:0051321,Meiotic cell cycle,14 of 250,0.63,0.62,0.0011
+GO:0051302,Regulation of cell division,12 of 188,0.69,0.62,0.0014
+GO:2001252,Positive regulation of chromosome organization,9 of 107,0.81,0.62,0.0022
+GO:0034728,Nucleosome organization,11 of 162,0.72,0.61,0.0018
+GO:2001251,Negative regulation of chromosome organization,8 of 84,0.86,0.61,0.0027
+GO:0000281,Mitotic cytokinesis,8 of 84,0.86,0.61,0.0027
+GO:0006356,Regulation of transcription by RNA polymerase I,6 of 43,1.03,0.61,0.0037
+GO:0048522,Positive regulation of cellular process,118 of 5584,0.21,0.6,1.11E-06
+GO:0006261,DNA-templated DNA replication,10 of 137,0.75,0.6,0.0024
+GO:0031324,Negative regulation of cellular metabolic process,59 of 2265,0.3,0.59,4.82E-05
+GO:0006406,mRNA export from nucleus,7 of 65,0.92,0.59,0.0038
+GO:0044085,Cellular component biogenesis,67 of 2702,0.28,0.58,3.49E-05
+GO:0010605,Negative regulation of macromolecule metabolic process,68 of 2760,0.28,0.58,3.49E-05
+GO:0051253,Negative regulation of RNA metabolic process,42 of 1434,0.35,0.58,0.00016
+GO:0065004,protein-DNA complex assembly,13 of 229,0.64,0.58,0.0019
+GO:0010556,Regulation of macromolecule biosynthetic process,89 of 3980,0.23,0.57,1.74E-05
+GO:0042254,Ribosome biogenesis,15 of 299,0.58,0.57,0.0017
+GO:0034508,Centromere complex assembly,5 of 29,1.12,0.57,0.0064
+GO:0031445,Regulation of heterochromatin assembly,5 of 29,1.12,0.57,0.0064
+GO:0019222,Regulation of metabolic process,134 of 6784,0.18,0.56,2.11E-06
+GO:0010468,Regulation of gene expression,104 of 4899,0.21,0.56,1.06E-05
+GO:0071824,protein-DNA complex subunit organization,14 of 268,0.6,0.56,0.0021
+GO:0045842,Positive regulation of mitotic metaphase/anaphase transition,4 of 15,1.31,0.56,0.0078
+GO:0031453,Positive regulation of heterochromatin assembly,4 of 15,1.31,0.56,0.0078
+GO:0060255,Regulation of macromolecule metabolic process,125 of 6249,0.19,0.55,5.07E-06
+GO:0048518,Positive regulation of biological process,124 of 6207,0.19,0.55,6.45E-06
+GO:1901976,Regulation of cell cycle checkpoint,6 of 49,0.97,0.55,0.0066
+GO:0000398,"mRNA splicing, via spliceosome",13 of 245,0.61,0.54,0.0032
+GO:0051225,Spindle assembly,8 of 96,0.81,0.54,0.0056
+GO:0031325,Positive regulation of cellular metabolic process,72 of 3114,0.25,0.53,0.00012
+GO:0040029,"Regulation of gene expression, epigenetic",9 of 123,0.75,0.53,0.0051
+GO:0009889,Regulation of biosynthetic process,90 of 4205,0.21,0.52,7.91E-05
+GO:0042273,Ribosomal large subunit biogenesis,7 of 74,0.86,0.52,0.0074
+GO:0051252,Regulation of RNA metabolic process,82 of 3759,0.22,0.51,0.00014
+GO:0009892,Negative regulation of metabolic process,69 of 2982,0.25,0.51,0.00019
+GO:1903046,Meiotic cell cycle process,11 of 188,0.65,0.51,0.0053
+GO:0031056,Regulation of histone modification,11 of 188,0.65,0.51,0.0053
+GO:0045943,Positive regulation of transcription by RNA polymerase I,5 of 33,1.06,0.51,0.0100
+GO:0019219,Regulation of nucleobase-containing compound metabolic process,87 of 4074,0.21,0.5,0.00014
+GO:0000956,Nuclear-transcribed mRNA catabolic process,8 of 103,0.77,0.5,0.0082
+GO:0050794,Regulation of cellular process,187 of 11025,0.11,0.49,7.46E-06
+GO:0051171,Regulation of nitrogen compound metabolic process,113 of 5734,0.18,0.49,7.5E-05
+GO:0080090,Regulation of primary metabolic process,115 of 5899,0.17,0.49,9.16E-05
+GO:0048523,Negative regulation of cellular process,97 of 4736,0.2,0.49,0.00015
+GO:0034641,Cellular nitrogen compound metabolic process,76 of 3463,0.23,0.49,0.00030
+GO:0006974,Cellular response to DNA damage stimulus,25 of 744,0.41,0.49,0.0024
+GO:0033047,Regulation of mitotic sister chromatid segregation,6 of 55,0.92,0.49,0.0108
+GO:0090169,Regulation of spindle assembly,5 of 35,1.04,0.49,0.0125
+GO:0031326,Regulation of cellular biosynthetic process,87 of 4143,0.21,0.48,0.00024
+GO:0010467,Gene expression,52 of 2101,0.28,0.48,0.00076
+GO:0045935,Positive regulation of nucleobase-containing compound metabolic process,51 of 2056,0.28,0.48,0.00087
+GO:0051254,Positive regulation of RNA metabolic process,47 of 1845,0.29,0.48,0.0010
+GO:0070925,Organelle assembly,26 of 799,0.4,0.48,0.0027
+GO:0006281,DNA repair,19 of 497,0.47,0.48,0.0041
+GO:0034504,Protein localization to nucleus,11 of 195,0.64,0.48,0.0069
+GO:1901985,Positive regulation of protein acetylation,6 of 57,0.91,0.48,0.0126
+GO:0045945,Positive regulation of transcription by RNA polymerase III,4 of 19,1.21,0.48,0.0151
+GO:1903490,Positive regulation of mitotic cytokinesis,3 of 7,1.52,0.48,0.0178
+GO:0010216,Maintenance of DNA methylation,3 of 7,1.52,0.48,0.0178
+GO:0043170,Macromolecule metabolic process,112 of 5781,0.17,0.47,0.00018
+GO:0048519,Negative regulation of biological process,105 of 5313,0.18,0.47,0.00020
+GO:0051172,Negative regulation of nitrogen compound metabolic process,57 of 2403,0.26,0.47,0.00084
+GO:0051130,Positive regulation of cellular component organization,31 of 1049,0.36,0.46,0.0027
+GO:0140013,Meiotic nuclear division,10 of 171,0.65,0.46,0.0102
+GO:0072698,Protein localization to microtubule cytoskeleton,5 of 38,1.0,0.46,0.0167
+GO:0033554,Cellular response to stress,41 of 1572,0.3,0.45,0.0023
+GO:0044087,Regulation of cellular component biogenesis,29 of 971,0.36,0.45,0.0038
+GO:0010639,Negative regulation of organelle organization,15 of 351,0.52,0.45,0.0076
+GO:0031058,Positive regulation of histone modification,8 of 111,0.74,0.45,0.0125
+GO:0051653,Spindle localization,6 of 60,0.88,0.45,0.0157
+GO:0007063,Regulation of sister chromatid cohesion,4 of 21,1.16,0.45,0.0201
+GO:0006355,"Regulation of transcription, DNA-templated",74 of 3460,0.21,0.44,0.00094
+GO:0051173,Positive regulation of nitrogen compound metabolic process,69 of 3166,0.22,0.44,0.0011
+GO:0022607,Cellular component assembly,57 of 2467,0.25,0.44,0.0016
+GO:2001020,Regulation of response to DNA damage stimulus,14 of 316,0.53,0.44,0.0088
+GO:0043414,Macromolecule methylation,13 of 278,0.55,0.44,0.0093
+GO:0070828,Heterochromatin organization,6 of 61,0.88,0.44,0.0169
+GO:1905832,Positive regulation of spindle assembly,3 of 8,1.46,0.44,0.0229
+GO:0050789,Regulation of biological process,190 of 11655,0.1,0.43,0.00012
+GO:0010557,Positive regulation of macromolecule biosynthetic process,47 of 1935,0.27,0.43,0.0029
+GO:0045893,"Positive regulation of transcription, DNA-templated",43 of 1710,0.28,0.43,0.0031
+GO:0006997,Nucleus organization,9 of 147,0.67,0.43,0.0151
+GO:0071459,"Protein localization to chromosome, centromeric region",5 of 41,0.97,0.43,0.0218
+GO:0035066,Positive regulation of histone acetylation,5 of 41,0.97,0.43,0.0218
+GO:0051641,Cellular localization,60 of 2677,0.24,0.42,0.0022
+GO:0016072,rRNA metabolic process,12 of 250,0.57,0.42,0.0126
+GO:0009411,Response to UV,9 of 150,0.66,0.42,0.0170
+GO:0051170,Import into nucleus,8 of 119,0.71,0.42,0.0181
+GO:0045814,"Negative regulation of gene expression, epigenetic",6 of 64,0.86,0.42,0.0207
+GO:0046599,Regulation of centriole replication,4 of 23,1.12,0.42,0.0258
+GO:1901993,Regulation of meiotic cell cycle phase transition,3 of 9,1.41,0.42,0.0288
+GO:0006357,Regulation of transcription by RNA polymerase II,58 of 2586,0.24,0.41,0.0028
+GO:0051052,Regulation of DNA metabolic process,19 of 541,0.43,0.41,0.0104
+GO:0006284,Base-excision repair,5 of 43,0.95,0.41,0.0258
+GO:0009893,Positive regulation of metabolic process,78 of 3847,0.19,0.4,0.0028
+GO:0010604,Positive regulation of macromolecule metabolic process,73 of 3533,0.2,0.4,0.0030
+GO:0000122,Negative regulation of transcription by RNA polymerase II,28 of 971,0.34,0.4,0.0083
+GO:1901983,Regulation of protein acetylation,7 of 94,0.76,0.4,0.0235
+GO:1901988,Negative regulation of cell cycle phase transition,11 of 225,0.57,0.39,0.0189
+GO:1902806,Regulation of cell cycle G1/S phase transition,10 of 192,0.6,0.39,0.0218
+GO:0000075,Cell cycle checkpoint signaling,9 of 157,0.64,0.39,0.0221
+GO:0045840,Positive regulation of mitotic nuclear division,5 of 45,0.93,0.39,0.0301
+GO:0009987,Cellular process,223 of 14826,0.06,0.38,0.00062
+GO:0065007,Biological regulation,195 of 12385,0.08,0.38,0.00087
+GO:0051649,Establishment of localization in cell,42 of 1756,0.26,0.37,0.0094
+GO:0010629,Negative regulation of gene expression,26 of 899,0.35,0.37,0.0129
+GO:2000045,Regulation of G1/S transition of mitotic cell cycle,9 of 164,0.62,0.37,0.0286
+GO:0006401,RNA catabolic process,9 of 164,0.62,0.37,0.0286
+GO:0035065,Regulation of histone acetylation,6 of 72,0.81,0.37,0.0337
+GO:0033036,Macromolecule localization,52 of 2356,0.23,0.36,0.0097
+GO:1901991,Negative regulation of mitotic cell cycle phase transition,9 of 167,0.62,0.36,0.0316
+GO:0051571,Positive regulation of histone H3-K4 methylation,4 of 27,1.06,0.36,0.0415
+GO:0044260,Cellular macromolecule metabolic process,54 of 2512,0.22,0.34,0.0129
+GO:0090307,Mitotic spindle assembly,5 of 51,0.88,0.34,0.0490
+GO:0031507,Heterochromatin assembly,5 of 51,0.88,0.34,0.0490
+GO:0051129,Negative regulation of cellular component organization,21 of 691,0.37,0.33,0.0261
+GO:0006417,Regulation of translation,16 of 456,0.43,0.33,0.0294
+GO:0051246,Regulation of protein metabolic process,55 of 2622,0.21,0.32,0.0192
+GO:0051640,Organelle localization,17 of 514,0.4,0.32,0.0360
+GO:0031399,Regulation of protein modification process,37 of 1560,0.26,0.31,0.0247
+GO:0031328,Positive regulation of cellular biosynthetic process,45 of 2041,0.23,0.3,0.0258
+GO:0043933,Protein-containing complex organization,35 of 1465,0.26,0.3,0.0304
+GO:0065003,Protein-containing complex assembly,32 of 1303,0.27,0.3,0.0339
