@@ -7,8 +7,40 @@ Code and analysis scripts accompanying the following preprint:
 
 ## Contents
 
-- **Intron retention** — Figure 2
-- **ChIP-seq analysis** — Figure S4
-- **Biomarker analysis** — Figure 4
-- **Network analysis**
-- **Figure code** — scripts for manuscript figures
+- **Intron retention**  
+  Code and configuration for **Figure 2**: `Figure2/Intron-Retention/config`
+
+- **ChIP-seq analysis**  
+  Code and configuration for **Figure S4**: `Supplementary Figs/data/ChIP-seq-FigureS4/config`
+
+- **Biomarker analysis**  
+  Code and configuration for **Figure 4**: `Figure4/config`
+
+- **Figure generation**  
+  Jupyter notebooks used to generate the manuscript figures.
+
+---
+
+## Dependencies
+
+The analyses were developed and tested with the following software versions:
+
+| Package | Version |
+|---------|---------|
+| Python | 3.10 |
+| pandas | 2.0.3 |
+| numpy | 1.23.0 |
+| scipy | 1.10.1 |
+| matplotlib | 3.7.3 |
+| seaborn | 0.11.0 |
+| PyYAML | 5.3.1 |
+| deepTools | latest compatible version |
+| yq | latest compatible version |
+
+---
+
+## PSI-Sigma
+
+Alternative splicing analysis was performed using **PSI-Sigma v2.1**.
+
+PSI-Sigma was executed from a **Singularity container**. Please refer to the [PSI-Sigma GitHub repository](https://github.com/wososa/PSI-Sigma) for instructions on obtaining and running the Singularity image.
