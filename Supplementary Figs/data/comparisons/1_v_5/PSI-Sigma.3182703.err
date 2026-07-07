@@ -1,0 +1,4 @@
+INFO:    Using cached SIF image
+mkdir: mkdir: cannot create directory ‘_wososatmp’cannot create directory ‘_wososatmp’: File exists
+: File exists
+mkdir: cannot create directory ‘_wososatmp’: File exists

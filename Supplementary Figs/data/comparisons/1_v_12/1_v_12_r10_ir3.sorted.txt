@@ -1,0 +1,1 @@
+Event Region	Gene Symbol	Target Exon	Event Type	N	T	Exon Type	Reference Transcript	ΔPSI (%)	T-test p-value	FDR (BH)	N Values	T Values	Database ID

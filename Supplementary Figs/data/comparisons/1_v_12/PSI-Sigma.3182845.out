@@ -1,0 +1,160 @@
+groupa.txt is found. Copy to the working directory.
+groupb.txt is found. Copy to the working directory.
+gtf = ../genome.gtf
+name = 1_v_12
+type = 2
+nread = 10
+skipratio = 0.05
+fmode = 3
+irmode = 0
+adjp = 0
+trimp = 5
+denominator = 0
+irrange = 5
+groupa = 1_v_12.groupa.txt
+groupb = 1_v_12.groupb.txt
+threads = 8
+output = .
+variance assumption = equal (Student's t-test)
+Path = /usr/local/bin/PSI-Sigma-2.1
+WT_0_T1.sortedByCoord.bam.bai doesn't exist. Creating a new index...
+WT_0_T2.sortedByCoord.bam.bai doesn't exist. Creating a new index...
+G579S_100_C1.sortedByCoord.bam.bai doesn't exist. Creating a new index...
+G579S_100_C2.sortedByCoord.bam.bai doesn't exist. Creating a new index...
+Generating mapping file...
+Checking splice-junction files...
+Generating... G579S_100_C1.sortedByCoord.SJ.out.tab
+Generating... WT_0_T1.sortedByCoord.SJ.out.tab
+Generating... WT_0_T2.sortedByCoord.SJ.out.tab
+Generating... G579S_100_C2.sortedByCoord.SJ.out.tab
+===Splice-junction files spent 0.0000 hours.===
+Generating 1_v_12.db...
+Number of valid .SJ.out.tab files = 0
+time = 0.23 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.40 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.45 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.45 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.65 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.85 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.93 mins
+Number of valid .SJ.out.tab files = 0
+time = 2.02 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.20 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.23 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.27 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.27 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.90 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.90 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.92 mins
+Number of valid .SJ.out.tab files = 0
+time = 1.28 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.17 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.40 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.42 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.48 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.50 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.60 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.62 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.65 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.17 mins
+===Database spent 0.0686 hours.===
+Getting intron reads....
+Checking G579S_100_C1.sortedByCoord.bam...
+Checking G579S_100_C1.sortedByCoord.IR.out.tab...
+Generating .IR.out for G579S_100_C1.sortedByCoord
+Checking WT_0_T1.sortedByCoord.bam...
+Checking WT_0_T1.sortedByCoord.IR.out.tab...
+Generating .IR.out for WT_0_T1.sortedByCoord
+Checking WT_0_T2.sortedByCoord.bam...
+Checking WT_0_T2.sortedByCoord.IR.out.tab...
+Generating .IR.out for WT_0_T2.sortedByCoord
+Checking G579S_100_C2.sortedByCoord.bam...
+Checking G579S_100_C2.sortedByCoord.IR.out.tab...
+Generating .IR.out for G579S_100_C2.sortedByCoord
+Processing WT_0_T1.sortedByCoord.bam...
+Processing WT_0_T2.sortedByCoord.bam...
+Processing G579S_100_C2.sortedByCoord.bam...
+Processing G579S_100_C1.sortedByCoord.bam...
+read format = single-end
+read format = single-end
+read format = single-end
+read format = single-end
+Spent 0.0000 mins
+Spent 0.0000 mins
+Spent 0.0000 mins
+Spent 0.0000 mins
+===Intron-read file spent 0.0000 hours.===
+Ready to do PSI analysis...
+Group A has 2 samples.
+Group B has 2 samples.
+Reading... G579S_100_C1.sortedByCoord
+Reading... G579S_100_C1.sortedByCoord.SJ.out.tab
+accession = G579S_100_C1.sortedByCoord
+(T) G579S_100_C1.sortedByCoord
+Checking IR reads
+checking... G579S_100_C1.sortedByCoord.IR.out.tab
+Checking SJ reads...
+Calculating PSI values...
+Reading... G579S_100_C2.sortedByCoord
+Reading... G579S_100_C2.sortedByCoord.SJ.out.tab
+accession = G579S_100_C2.sortedByCoord
+(T) G579S_100_C2.sortedByCoord
+Checking IR reads
+checking... G579S_100_C2.sortedByCoord.IR.out.tab
+Checking SJ reads...
+Calculating PSI values...
+Reading... WT_0_T1.sortedByCoord
+Reading... WT_0_T1.sortedByCoord.SJ.out.tab
+accession = WT_0_T1.sortedByCoord
+(N) WT_0_T1.sortedByCoord
+Checking IR reads
+checking... WT_0_T1.sortedByCoord.IR.out.tab
+Checking SJ reads...
+Calculating PSI values...
+Reading... WT_0_T2.sortedByCoord
+Reading... WT_0_T2.sortedByCoord.SJ.out.tab
+accession = WT_0_T2.sortedByCoord
+(N) WT_0_T2.sortedByCoord
+Checking IR reads
+checking... WT_0_T2.sortedByCoord.IR.out.tab
+Checking SJ reads...
+Calculating PSI values...
+Number of events = 0
+Number of samples = 4
+Statistics option = Student's t-test
+number of p-value = 0
+Number of final p-value = 0
+Skipping p-value adjustment.
+number of fdr(BH) = 0
+===PSI analysis spent 0.0106 hours.===
+Filtering ΔPSI results...
+Filtering mode = 3
+Reading... ../genome.gtf.mapping.txt
+Reading... 1_v_12.db
+===Filtering spent 0.0003 hours.===
+Archiving... 1_v_12_r10_ir3.txt 
+1_v_12_r10_ir3.txt
+
+***Total: 0.0795 hours (or 4.77mins).

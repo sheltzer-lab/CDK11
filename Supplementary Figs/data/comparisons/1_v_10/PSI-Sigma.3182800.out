@@ -1,0 +1,35 @@
+groupa.txt is found. Copy to the working directory.
+groupb.txt is found. Copy to the working directory.
+gtf = ../genome.gtf
+name = 1_v_10
+type = 2
+nread = 10
+skipratio = 0.05
+fmode = 3
+irmode = 0
+adjp = 0
+trimp = 5
+denominator = 0
+irrange = 5
+groupa = 1_v_10.groupa.txt
+groupb = 1_v_10.groupb.txt
+threads = 8
+output = .
+variance assumption = equal (Student's t-test)
+Path = /usr/local/bin/PSI-Sigma-2.1
+WT_0_T1.sortedByCoord.bam.bai doesn't exist. Creating a new index...
+WT_0_T2.sortedByCoord.bam.bai doesn't exist. Creating a new index...
+G579S_100_T1.sortedByCoord.bam.bai doesn't exist. Creating a new index...
+G579S_100_T2.sortedByCoord.bam.bai doesn't exist. Creating a new index...
+Generating mapping file...
+Checking splice-junction files...
+Generating... G579S_100_T1.sortedByCoord.SJ.out.tab
+Generating... WT_0_T2.sortedByCoord.SJ.out.tab
+Generating... G579S_100_T2.sortedByCoord.SJ.out.tab
+Generating... WT_0_T1.sortedByCoord.SJ.out.tab
+===Splice-junction files spent 0.0000 hours.===
+Generating 1_v_10.db...
+Number of valid .SJ.out.tab files = 0
+time = 0.23 mins
+Number of valid .SJ.out.tab files = 0
+time = 0.40 mins

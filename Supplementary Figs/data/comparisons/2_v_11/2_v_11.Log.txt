@@ -1,0 +1,3 @@
+Working directory = /usr/local/bin/PSI-Sigma-2.1
+Parameters =  --gtf ../genome.gtf --nread 10 --name 2_v_11 --type 2 --threads 8 --fmode 3
+Computing time = 1.1522 hours (or 69.132mins).

@@ -1,0 +1,40 @@
+INFO:    Using cached SIF image
+open: No such file or directory
+[bam_index_build2] fail to open the BAM file.
+open: No such file or directory
+[bam_index_build2] fail to open the BAM file.
+open: No such file or directory
+[bam_index_build2] fail to open the BAM file.
+open: No such file or directory
+[bam_index_build2] fail to open the BAM file.
+open: No such file or directory
+[main_samview] fail to open "G579S_100_C1.sortedByCoord.bam" for reading.
+open: No such file or directory
+[main_samview] fail to open "WT_0_T1.sortedByCoord.bam" for reading.
+open: No such file or directory
+[main_samview] fail to open "WT_0_T2.sortedByCoord.bam" for reading.
+open: No such file or directory
+[main_samview] fail to open "G579S_100_C2.sortedByCoord.bam" for reading.
+open: No such file or directory
+open: No such file or directory
+open: No such file or directory
+[bam_idxstats] fail to open BAM.
+open: No such file or directory
+[bam_idxstats] fail to open BAM.
+[bam_idxstats] fail to open BAM.
+[bam_idxstats] fail to open BAM.
+open: No such file or directory
+open: No such file or directory
+[main_samview] fail to open "WT_0_T2.sortedByCoord.bam" for reading.
+[main_samview] fail to open "WT_0_T1.sortedByCoord.bam" for reading.
+open: No such file or directory
+open: No such file or directory
+[main_samview] fail to open "G579S_100_C2.sortedByCoord.bam" for reading.
+[main_samview] fail to open "G579S_100_C1.sortedByCoord.bam" for reading.
+mkdir: mkdir: mkdir: cannot create directory ‘_wososatmp’cannot create directory ‘_wososatmp’cannot create directory ‘_wososatmp’: File exists: File exists
+: File exists
+
+cat: '_wososatmp/WT_0_T2.sortedByCoord.bam*.IRtmp.txt': No such file or directory
+cat: '_wososatmp/G579S_100_C2.sortedByCoord.bam*.IRtmp.txt': No such file or directory
+cat: '_wososatmp/G579S_100_C1.sortedByCoord.bam*.IRtmp.txt': No such file or directory
+cat: '_wososatmp/WT_0_T1.sortedByCoord.bam*.IRtmp.txt': No such file or directory

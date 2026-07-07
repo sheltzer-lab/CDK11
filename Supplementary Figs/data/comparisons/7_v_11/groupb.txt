@@ -1,0 +1,2 @@
+G579S_100_N1.sortedByCoord.bam
+G579S_100_N2.sortedByCoord.bam

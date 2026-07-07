@@ -1,0 +1,360 @@
+groupa.txt is found. Copy to the working directory.
+groupb.txt is found. Copy to the working directory.
+gtf = ../genome.gtf
+name = 1_v_9
+type = 2
+nread = 10
+skipratio = 0.05
+fmode = 3
+irmode = 0
+adjp = 0
+trimp = 5
+denominator = 0
+irrange = 5
+groupa = 1_v_9.groupa.txt
+groupb = 1_v_9.groupb.txt
+threads = 8
+output = .
+variance assumption = equal (Student's t-test)
+Path = /usr/local/bin/PSI-Sigma-2.1
+WT_0_T1.sortedByCoord.bam.bai is ready.
+WT_0_T2.sortedByCoord.bam.bai is ready.
+G579S_0_C1.sortedByCoord.bam.bai is ready.
+G579S_0_C2.sortedByCoord.bam.bai is ready.
+Generating mapping file...
+Checking splice-junction files...
+Generating... WT_0_T1.sortedByCoord.SJ.out.tab
+Generating... WT_0_T2.sortedByCoord.SJ.out.tab
+Generating... G579S_0_C2.sortedByCoord.SJ.out.tab
+Generating... G579S_0_C1.sortedByCoord.SJ.out.tab
+===Splice-junction files spent 0.3019 hours.===
+Generating 1_v_9.db...
+Number of valid .SJ.out.tab files = 4
+time = 0.37 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.63 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.88 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.95 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.98 mins
+Number of valid .SJ.out.tab files = 4
+time = 1.25 mins
+Number of valid .SJ.out.tab files = 4
+time = 1.65 mins
+Number of valid .SJ.out.tab files = 4
+time = 3.38 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.33 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.35 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.43 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.48 mins
+Number of valid .SJ.out.tab files = 4
+time = 1.32 mins
+Number of valid .SJ.out.tab files = 4
+time = 1.33 mins
+Number of valid .SJ.out.tab files = 4
+time = 1.35 mins
+Number of valid .SJ.out.tab files = 4
+time = 1.90 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.33 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.70 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.80 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.85 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.87 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.95 mins
+Number of valid .SJ.out.tab files = 4
+time = 1.08 mins
+Number of valid .SJ.out.tab files = 4
+time = 1.25 mins
+Number of valid .SJ.out.tab files = 4
+time = 0.17 mins
+===Database spent 0.1117 hours.===
+Getting intron reads....
+Checking WT_0_T1.sortedByCoord.bam...
+Checking WT_0_T1.sortedByCoord.IR.out.tab...
+Generating .IR.out for WT_0_T1.sortedByCoord
+Checking WT_0_T2.sortedByCoord.bam...
+Checking WT_0_T2.sortedByCoord.IR.out.tab...
+Generating .IR.out for WT_0_T2.sortedByCoord
+Checking G579S_0_C2.sortedByCoord.bam...
+Checking G579S_0_C2.sortedByCoord.IR.out.tab...
+Generating .IR.out for G579S_0_C2.sortedByCoord
+Checking G579S_0_C1.sortedByCoord.bam...
+Checking G579S_0_C1.sortedByCoord.IR.out.tab...
+Generating .IR.out for G579S_0_C1.sortedByCoord
+Processing G579S_0_C1.sortedByCoord.bam...
+Processing WT_0_T1.sortedByCoord.bam...
+Processing WT_0_T2.sortedByCoord.bam...
+Processing G579S_0_C2.sortedByCoord.bam...
+read format = paired-end
+read format = paired-end
+read format = paired-end
+read format = paired-end
+Doing... 1
+Doing... 1
+Doing... 1
+Doing... 1
+Output... 1
+Doing... 10
+Output... 1
+Doing... 10
+Output... 1
+Doing... 10
+Output... 10
+Doing... 11
+Output... 1
+Doing... 10
+Output... 10
+Doing... 11
+Output... 10
+Doing... 11
+Output... 10
+Doing... 11
+Output... 11
+Doing... 12
+Output... 11
+Doing... 12
+Output... 11
+Doing... 12
+Output... 12
+Doing... 13
+Output... 11
+Doing... 12
+Output... 13
+Doing... 14
+Output... 12
+Doing... 13
+Output... 14
+Doing... 15
+Output... 12
+Doing... 13
+Output... 13
+Doing... 14
+Output... 15
+Doing... 16
+Output... 13
+Doing... 14
+Output... 14
+Doing... 15
+Output... 12
+Doing... 13
+Output... 14
+Doing... 15
+Output... 15
+Doing... 16
+Output... 16
+Doing... 17
+Output... 13
+Doing... 14
+Output... 15
+Doing... 16
+Output... 14
+Doing... 15
+Output... 16
+Doing... 17
+Output... 17
+Doing... 18
+Output... 18
+Doing... 19
+Output... 16
+Doing... 17
+Output... 15
+Doing... 16
+Output... 17
+Doing... 18
+Output... 18
+Doing... 19
+Output... 19
+Doing... 2
+Output... 17
+Doing... 18
+Output... 16
+Doing... 17
+Output... 18
+Doing... 19
+Output... 19
+Doing... 2
+Output... 2
+Doing... 20
+Output... 20
+Doing... 21
+Output... 21
+Doing... 22
+Output... 19
+Doing... 2
+Output... 17
+Doing... 18
+Output... 2
+Doing... 20
+Output... 22
+Doing... 3
+Output... 18
+Doing... 19
+Output... 20
+Doing... 21
+Output... 21
+Doing... 22
+Output... 3
+Doing... 4
+Output... 2
+Doing... 20
+Output... 22
+Doing... 3
+Output... 4
+Doing... 5
+Output... 20
+Doing... 21
+Output... 19
+Doing... 2
+Output... 21
+Doing... 22
+Output... 5
+Doing... 6
+Output... 3
+Doing... 4
+Output... 22
+Doing... 3
+Output... 4
+Doing... 5
+Output... 6
+Doing... 7
+Output... 2
+Doing... 20
+Output... 3
+Doing... 4
+Output... 5
+Doing... 6
+Output... 20
+Doing... 21
+Output... 7
+Doing... 8
+Output... 21
+Doing... 22
+Output... 4
+Doing... 5
+Output... 8
+Doing... 9
+Output... 6
+Doing... 7
+Output... 22
+Doing... 3
+Output... 9
+Doing... MT
+Output... 5
+Doing... 6
+Output... 7
+Doing... 8
+Output... MT
+Doing... X
+Output... 3
+Doing... 4
+Output... 8
+Doing... 9
+Output... X
+Doing... Y
+Output... Y
+Spent 21.4500 mins
+Output... 6
+Doing... 7
+Output... 4
+Doing... 5
+Output... 9
+Doing... MT
+Output... 7
+Doing... 8
+Output... MT
+Doing... X
+Output... 5
+Doing... 6
+Output... X
+Doing... Y
+Output... Y
+Spent 23.7167 mins
+Output... 8
+Doing... 9
+Output... 6
+Doing... 7
+Output... 9
+Doing... MT
+Output... MT
+Doing... X
+Output... 7
+Doing... 8
+Output... X
+Doing... Y
+Output... Y
+Spent 26.8333 mins
+Output... 8
+Doing... 9
+Output... 9
+Doing... MT
+Output... MT
+Doing... X
+Output... X
+Doing... Y
+Output... Y
+Spent 30.3000 mins
+===Intron-read file spent 0.5053 hours.===
+Ready to do PSI analysis...
+Group A has 2 samples.
+Group B has 2 samples.
+Reading... G579S_0_C1.sortedByCoord
+Reading... G579S_0_C1.sortedByCoord.SJ.out.tab
+accession = G579S_0_C1.sortedByCoord
+(T) G579S_0_C1.sortedByCoord
+Checking IR reads
+checking... G579S_0_C1.sortedByCoord.IR.out.tab
+Checking SJ reads...
+Calculating PSI values...
+Reading... G579S_0_C2.sortedByCoord
+Reading... G579S_0_C2.sortedByCoord.SJ.out.tab
+accession = G579S_0_C2.sortedByCoord
+(T) G579S_0_C2.sortedByCoord
+Checking IR reads
+checking... G579S_0_C2.sortedByCoord.IR.out.tab
+Checking SJ reads...
+Calculating PSI values...
+Reading... WT_0_T1.sortedByCoord
+Reading... WT_0_T1.sortedByCoord.SJ.out.tab
+accession = WT_0_T1.sortedByCoord
+(N) WT_0_T1.sortedByCoord
+Checking IR reads
+checking... WT_0_T1.sortedByCoord.IR.out.tab
+Checking SJ reads...
+Calculating PSI values...
+Reading... WT_0_T2.sortedByCoord
+Reading... WT_0_T2.sortedByCoord.SJ.out.tab
+accession = WT_0_T2.sortedByCoord
+(N) WT_0_T2.sortedByCoord
+Checking IR reads
+checking... WT_0_T2.sortedByCoord.IR.out.tab
+Checking SJ reads...
+Calculating PSI values...
+Number of events = 173559
+Number of samples = 4
+Statistics option = Student's t-test
+number of p-value = 126099
+Number of final p-value = 125020
+Skipping p-value adjustment.
+number of fdr(BH) = 125020
+===PSI analysis spent 0.0183 hours.===
+Filtering ΔPSI results...
+Filtering mode = 3
+Reading... ../genome.gtf.mapping.txt
+Reading... 1_v_9.db
+===Filtering spent 0.0011 hours.===
+Archiving... 1_v_9_r10_ir3.txt 
+1_v_9_r10_ir3.txt
+
+***Total: 0.9383 hours (or 56.298mins).

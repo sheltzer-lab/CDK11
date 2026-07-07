@@ -1,0 +1,2 @@
+WT_100_T1.sortedByCoord.bam
+WT_100_T2.sortedByCoord.bam

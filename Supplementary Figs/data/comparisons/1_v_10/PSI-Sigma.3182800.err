@@ -1,0 +1,18 @@
+INFO:    Using cached SIF image
+open: No such file or directory
+[bam_index_build2] fail to open the BAM file.
+open: No such file or directory
+[bam_index_build2] fail to open the BAM file.
+open: No such file or directory
+[bam_index_build2] fail to open the BAM file.
+open: No such file or directory
+[bam_index_build2] fail to open the BAM file.
+open: No such file or directory
+[main_samview] fail to open "G579S_100_T1.sortedByCoord.bam" for reading.
+open: No such file or directory
+[main_samview] fail to open "WT_0_T2.sortedByCoord.bam" for reading.
+open: No such file or directory
+[main_samview] fail to open "G579S_100_T2.sortedByCoord.bam" for reading.
+open: No such file or directory
+[main_samview] fail to open "WT_0_T1.sortedByCoord.bam" for reading.
+slurmstepd: error: *** JOB 3182800 ON r813u09n01 CANCELLED AT 2023-06-23T17:24:46 ***
