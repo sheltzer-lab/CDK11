@@ -8,16 +8,23 @@ Code and analysis scripts accompanying the following preprint:
 ## Contents
 
 - **Intron retention**  
-  Code and configuration for **Figure 2**: `Figure2/Intron-Retention/config`
+  Analysis code is located in the `Figure2/Intron-Retention/` directory. Configuration files for reproducing **Figure 2** are in `Figure2/Intron-Retention/config`.
 
 - **ChIP-seq analysis**  
-  Code and configuration for **Figure S4**: `Supplementary Figs/data/ChIP-seq-FigureS4/config`
+  Analysis code is located in `Supplementary Figs/ChIP-seq-FigureS4`. Configuration files for reproducing **Figure S4** are in `Supplementary Figs/ChIP-seq-FigureS4/config`.
 
 - **Biomarker analysis**  
-  Code and configuration for **Figure 4**: `Figure4/config`
+  Analysis code is located in the `Figure4` directory. Configuration files for reproducing **Figure 4** are in `Figure4/config`.
 
 - **Figure generation**  
   Jupyter notebooks used to generate the manuscript figures.
+  - `Figure2/Figure2.ipynb`
+  - `Figure4/Figure4.ipynb`
+  - `Supplementary Figs/FigureSupplemental.ipynb`
+
+- **Data**
+  - Data used to generate the figures are available in the `data` subdirectory.
+  - Public datasets can be obtained from the **DepMap** portal and **TCGA**.
 
 ---
 
